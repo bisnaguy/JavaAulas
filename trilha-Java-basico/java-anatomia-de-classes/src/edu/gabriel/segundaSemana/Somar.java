@@ -1,3 +1,4 @@
+package edu.gabriel.segundaSemana;
 public class Somar {
     public static void main(String[] args) {
         int primeiroNumero = 5;
